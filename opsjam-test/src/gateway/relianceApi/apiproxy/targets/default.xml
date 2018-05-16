@@ -13,6 +13,6 @@
     <Flows/>
     <HTTPTargetConnection>
         <Properties/>
-        <URL>http://125.22.109.56:7003/kli/rest/ar/createPolicy</URL>
+        <URL>https://apibaas-trial.apigee.net/status</URL>
     </HTTPTargetConnection>
 </TargetEndpoint>
